@@ -1,9 +1,9 @@
 {
-  "name": "@camargo/c",
+  "name": "darmumgtcn",
   "version": "0.0.5",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "6d0f68ff3766e91f701398ec9f5e56998917f67f",
+  "gitHead": "09617038332b8da52af23210582f769b3c17069b",
   "publishConfig": {
     "access": "public"
   }
