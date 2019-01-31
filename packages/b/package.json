@@ -2,5 +2,9 @@
   "name": "@camargo/b",
   "version": "0.0.2",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "6d0f68ff3766e91f701398ec9f5e56998917f67f",
+  "publishConfig": {
+    "access": "public"
+  }
 }

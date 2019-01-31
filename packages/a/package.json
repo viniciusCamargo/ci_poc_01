@@ -6,5 +6,9 @@
   "dependencies": {
     "@camargo/b": "^0.0.2",
     "@camargo/c": "^0.0.2"
+  },
+  "gitHead": "6d0f68ff3766e91f701398ec9f5e56998917f67f",
+  "publishConfig": {
+    "access": "public"
   }
 }
